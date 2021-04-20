@@ -1,8 +1,8 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Sir Walter Richardson",
+    "occupation": "Electrical Engineer",
+    "description": "I help push early stage technologies into new products",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -10,8 +10,8 @@
     "phone": "555-555-5555",
     "address": {
       "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
+      "city": "Baltimore",
+      "state": "Maryland",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "http://facebook.com/",
         "className": "fa fa-facebook"
       },
       {
@@ -29,34 +29,34 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/sir-walter-richardson/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "http://instagram.com/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "http://github.com/sirwalterrrich",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Motivated engineer with years experience in RF hardware integration and validation. Skilled in operating advanced lab test equipment, test automation and scripting. Possesses strong board bring-up fundamentals and experience with several programming languages.",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
+        "school": "University of Memphis",
+        "degree": "Masters in Science of Electrical Engineering",
+        "graduated": "August 2013",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
+        "school": "University of Memphis",
+        "degree": "Bachelors in Science of Electrical Engineering",
+        "graduated": "December 2007",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
@@ -68,39 +68,31 @@
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Arconic",
+        "title": "Electrical Project Engineer",
+        "years": "June 2013 - March 2017",
+        "description": "Improved safety, increased production output and simplified the automation of several very long production lines"
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
+        "name": "Automation",
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "Board Design",
+        "level": "80%"
       },
       {
-        "name": "MongoDB",
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Problem Solving and Troubleshooting",
+        "level": "90%"
+      },
+      {
+        "name": "RF Design",
         "level": "80%"
       }
     ]
